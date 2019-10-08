@@ -1,0 +1,4 @@
+ Создать окружение venv
+ установить в него пакуты Xlib pyserial pyautogui PyQt5 pyinstaller
+
+ pyinstaller -F -w -i "/home/ghost/Projekt/PyCharm/PulytUi/MyIcon.ico" main.py
